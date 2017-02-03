@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: post
+title:  "Formatting options"
+date:   2017-02-02 14:21:15 +0100
+categories: jekyll update
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
