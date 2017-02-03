@@ -6,6 +6,8 @@ url: "http://walter-holzwarth.de"
 repository: "walter-holzwarth/walter-holzwarth.github.io"
 
 # Build settings
+construction: true
+maintainance: false
 markdown: kramdown
 theme: jekyll-theme-leap-day
 exclude:
