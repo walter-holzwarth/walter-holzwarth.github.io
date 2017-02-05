@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+$green1: #273A19;
+$green2: #4E663C;
+$green3: #85BA2A;
+$green4: #A8B318;
+
+$blue1: #003F6E;
+$blue2: #093F59;
+$blue3: #0E6893;
+$blue4: #468695;
+
+$grey: #D8E0DA;
+
+
 h1 a { color: #d8d8d8; }
 
 #banner #buttons {
@@ -18,3 +31,23 @@ h1 a { color: #d8d8d8; }
     margin-left: 10px;
   }
 }
+
+header { background: $green2; }
+#banner { 
+  background: $blue1; 
+  border: 1px solid #888;
+
+  .button { 
+    background-color: $blue3;
+    border: 1px solid $blue4;
+    box-shadow: none;
+
+    strong { color: #fff; }
+
+    &:active { background-color: $blue4; }
+    &:hover { background-color: $blue4; }
+  }
+}
+
+body { background: $grey; }
+
