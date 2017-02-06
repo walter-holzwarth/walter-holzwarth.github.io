@@ -10,6 +10,7 @@ h1 a { color: #d8d8d8; }
   position: fixed;
   left: 50%;
   margin-left: -325px;
+  min-width: 400px;
 }
 
 @media print, screen and (max-width: 680px) {
@@ -18,4 +19,12 @@ h1 a { color: #d8d8d8; }
     left: 0;
     margin-left: 10px;
   }
+}
+
+@media print, screen and (max-width: 480px) { 
+  section { margin-top: 40px; }
+  #banner { 
+    display: block; 
+    top: 58px;
+  } 
 }
