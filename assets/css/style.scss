@@ -6,20 +6,22 @@
 
 h1 a { color: #d8d8d8; }
 
+body { min-width: 300px; }
+
+// Fix horizontal position of buttons
 #banner #buttons {
   position: fixed;
   left: 50%;
   margin-left: -325px;
-  min-width: 400px;
-}
 
-@media print, screen and (max-width: 680px) {
-  #banner #buttons {
+  @media print, screen and (max-width: 680px) {
     position: relative;
     left: 0;
     margin-left: 10px;
+    white-space: nowrap;
   }
 }
+
 
 @media print, screen and (max-width: 480px) {
   section { margin-top: 40px; }
