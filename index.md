@@ -1,5 +1,5 @@
 ---
-layout: index
+index: true
 ---
 
 # Herzlich Wilkommen
