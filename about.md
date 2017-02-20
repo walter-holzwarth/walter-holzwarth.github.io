@@ -22,7 +22,7 @@ permalink: /about/
   Unterricht zu Gute kommt. Ob im Club oder bei Golftrainingsreisen freue ich
   mich auf eine effektive Zusammenarbeit mit Ihnen.
 
-![Walter Holzwarth](assets/img/walter-holzwarth.jpg)
+![Walter Holzwarth](/assets/img/walter-holzwarth.jpg)
 
 Herzliche Grüße Ihr \\
 Walter Holzwarth
