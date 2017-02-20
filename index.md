@@ -1,8 +1,8 @@
 ---
+layout: default
+title: Herzlich Willkommen
 index: true
 ---
-
-# Herzlich Wilkommen
 
 {% if site.construction %}
 
