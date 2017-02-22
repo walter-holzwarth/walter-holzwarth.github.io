@@ -4,6 +4,8 @@ title: Über Mich
 permalink: /about/
 ---
 
+![Walter Holzwarth](/assets/img/walter-holzwarth.jpg)
+
 * Fully Qualified PGA – Professional der PGA of Germany
 * seit über 30 Jahren im Golfbereich tätig
 * Ausbildung im Münchner Golf Club bei Elke Junge
@@ -21,8 +23,6 @@ permalink: /about/
   und Coach, bedeutet gerade beim Golf ein Zugewinn an Erfahrung die Ihnen beim
   Unterricht zu Gute kommt. Ob im Club oder bei Golftrainingsreisen freue ich
   mich auf eine effektive Zusammenarbeit mit Ihnen.
-
-![Walter Holzwarth](/assets/img/walter-holzwarth.jpg)
 
 Herzliche Grüße Ihr \\
 Walter Holzwarth
