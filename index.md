@@ -1,16 +1,10 @@
 ---
-layout: default
-title: Herzlich Willkommen
-index: true
+title: Aktuelle Golfreisen
 ---
 
 {% if site.construction %}
 
 Hier entsteht eine neue Internetpräsenz
-
-{% elsif site.maintainance %}
-
-Hier wird gerade gearbeitet - bitte kommen Sie später nochmal vorbei!
 
 {% else %}
 

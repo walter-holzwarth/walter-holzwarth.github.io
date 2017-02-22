@@ -7,8 +7,9 @@ repository: "walter-holzwarth/walter-holzwarth.github.io"
 
 # Build settings
 construction: true
-maintainance: false
+future: true
 markdown: kramdown
+excerpt_separator: <!--more-->
 theme: jekyll-theme-leap-day
 exclude:
   - Gemfile
