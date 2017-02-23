@@ -12,7 +12,7 @@ Verzaubernde Ligurische Landschaft, mittelalterliche Orte, und traditionelles Go
 <!--more-->
 
 [![](/assets/img/garlenda/thumb-01.jpg)][1]{: data-fancybox="gallery" }
-[![](/assets/img/garlenda/thumb-01.jpg)][1]{: data-fancybox="gallery" }
+[![](/assets/img/garlenda/thumb-02.jpg)][2]{: data-fancybox="gallery" }
 {: .gallery }
 
 ## Programm
@@ -57,4 +57,5 @@ bei Anmeldung € 500 pro Person
 * [Hotel La Meridiana Relais & Chateau](http://www.lameridianaresort.com/)
 
 [1]: /assets/img/garlenda/full-01.jpg
+[2]: /assets/img/garlenda/full-02.jpg
 
