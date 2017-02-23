@@ -6,7 +6,7 @@ url: "http://walter-holzwarth.de"
 repository: "walter-holzwarth/walter-holzwarth.github.io"
 
 # Build settings
-construction: true
+construction: false
 future: true
 markdown: kramdown
 excerpt_separator: <!--more-->
