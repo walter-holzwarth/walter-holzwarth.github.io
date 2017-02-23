@@ -5,7 +5,9 @@ permalink: /imprint/
 
 ## Anschrift
 
-> Walter Holzwarth
+> Walter Holzwarth\\
+> Birkenweg 11\\
+> 83122 Samerberg
 >
 > Telefon: +49 (0) 172 920 20 63\\
 > Email: walterholzwarth(at)web.de
