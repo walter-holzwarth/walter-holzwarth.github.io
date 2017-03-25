@@ -6,6 +6,7 @@ categories: golfreisen garlenda
 
 > **Italienische Riviera**\\
 > Hotel La Meridiana Relais & Chateaux \*\*\*\*\*\\
+> Hotel Hotel Borgofasceo \*\*\*\\
 > 07.05.2017 - 13.05.2017
 
 Verzaubernde Ligurische Landschaft, mittelalterliche Orte, und traditionelles Golfspiel als echte Herausforderung.
@@ -42,6 +43,12 @@ Einzelzimmer Elegant: € 3.840\\
 Doppelzimmer Elegant: € 3.020\\
 Doppelzimmer Romantic Suites € 3.320
 
+Hotel Borgofasceo:\\
+6 Übernachtungen mit Frühstück\\
+Einzelzimmer: € 2.180\\
+Doppelzimmer: € 1.970\\
+Doppelzimmer-Suite: € 2.060
+
 ### Teilnehmerzahl
 Mindestens: 4 Personen\\
 Maximal: 12 Personen
@@ -55,6 +62,7 @@ bei Anmeldung € 500 pro Person
 ## Links
 * [Golfclub Garlenda](http://www.garlendagolf.it/)
 * [Hotel La Meridiana Relais & Chateau](http://www.lameridianaresort.com/)
+* [Hotel Borgofasceo](http://www.borgofasceo.it)
 
 [1]: /assets/img/garlenda/full-01.jpg
 [2]: /assets/img/garlenda/full-02.jpg
