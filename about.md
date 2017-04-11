@@ -22,6 +22,7 @@ permalink: /about/
   und Coach, bedeutet gerade beim Golf ein Zugewinn an Erfahrung die Ihnen beim
   Unterricht zu Gute kommt. Ob im Club oder bei Golftrainingsreisen freue ich
   mich auf eine effektive Zusammenarbeit mit Ihnen.
+* neuer Standort  
 
 Herzliche Grüße Ihr \\
 Walter Holzwarth
