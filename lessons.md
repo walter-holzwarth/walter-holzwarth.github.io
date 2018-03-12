@@ -1,5 +1,5 @@
 ---
-title: Golfunterricht auf der Geldanlage Patting
+title: Golfunterricht auf der Golfanlage Patting
 permalink: /lessons/
 ---
 
