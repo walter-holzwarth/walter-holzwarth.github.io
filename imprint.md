@@ -15,7 +15,6 @@ permalink: /imprint/
 Um vor Spammail zu schützen, ist die Email-Adresse inaktiv. Ersetzen Sie (at) durch das @-Zeichen.
 
 ## Verantwortung
-
 Verantwortlich für den Inhalt: Walter Holzwarth
 
 ## Copyright
@@ -23,3 +22,7 @@ Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt. Eine Ver
 
 ## Haftungsausschluss
 Der Autor übernimmt keinerlei Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Der Inhalt der Websites, auf die mittels Hypertext-Links oder in anderer Weise verwiesen wird, stammt nicht von uns, ist uns im einzelnen nicht bekannt und wird nicht zur Nutzung als eigener oder fremder Inhalt bereitgehalten. Wir übernehmen deshalb keine Verantwortung oder Gewähr für den Inhalt irgendeiner Website, auf die durch Hypertext-Links oder in anderer Weise verwiesen wird. Ein rechtsgeschäftlicher Wille ist mit der Bereitstellung solcher Verweise nicht verbunden.
+
+## Datenschutz
+Die Nutzung dieser Webseite ist ohne Angabe personen-bezogener Daten möglich.
+
