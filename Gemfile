@@ -2,6 +2,8 @@ source "https://rubygems.org"
 ruby File.read(".ruby-version")
 
 gem "jekyll"
+gem "bigdecimal"
+gem "webrick"
 
 gem "github-pages", group: :jekyll_plugins
 
