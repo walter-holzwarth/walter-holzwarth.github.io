@@ -14,3 +14,7 @@ theme: jekyll-theme-leap-day
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# SASS settings
+sass:
+  sass_dir: assets/css
