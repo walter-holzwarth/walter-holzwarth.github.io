@@ -47,6 +47,10 @@ section img {
   margin-bottom: 20px;
 }
 
+@media print, screen and (max-width: 1060px) {
+  section { padding: 20px 10px; }
+}
+
 @media print, screen and (max-width: 480px) {
   section { margin-top: 40px; }
   #banner {
