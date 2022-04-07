@@ -6,10 +6,10 @@ permalink: /lessons/
 Gerne stehe ich Ihnen zu den auf dem Stundenplan angegebenen Zeiten für den Einzelunterricht zur Verfügung.
 Privatunterricht für 45 Minuten:
 
-> 50€ bei 1 Person\\
-> 60€ bei 2 Personen\\
-> 70€ bei 3 Personen\\
-> 80€ bei 4 Personen
+> 55€ bei 1 Person\\
+> 65€ bei 2 Personen\\
+> 75€ bei 3 Personen\\
+> ab 4 Personen 60 Minuten 100€\\
 
 Ob Putten, Kurzspiel, der volle Schwung oder die Spielstrategie auf dem Platz werden individuell auf Sie abgestimmt Inhalt des Unterrichts sein.
 
